@@ -1,0 +1,2 @@
+#Ignora la carpeta de cache de Python
+__pycache__
